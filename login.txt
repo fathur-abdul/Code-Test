@@ -1,0 +1,11 @@
+super admin
+fathurabdul@email.com
+admin
+
+admin :
+admin@email.com
+admin
+
+user
+user@email.com
+user
